@@ -1,10 +1,1 @@
 
-<html>
-<head>
-<title>Pagina para publicar de ACM</title>
-</head>
-<body>
-<h1>Hola Mundo!!!, Saludos desde ACM</h1>
-<p>Esta es la pagina Hosteada de forma virtual</p>
-</body>
-</html>
