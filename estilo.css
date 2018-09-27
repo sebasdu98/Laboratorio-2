@@ -6,7 +6,11 @@ p{
 	color: red;
 }
 body {
+	
 	background-image: url(https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg);
+	margin-left : auto;
+	margin-right : auto;
+	padding : 0px;
 }
 img{
 	margin:10px auto;
