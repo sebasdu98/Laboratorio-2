@@ -1,8 +1,9 @@
 h1{
 color: red;
 }
-body{
-background-image: url("") no-repeat;
+body {
+background-image: url (http://www.dominio.es/imagenes/imagen.gif);
+
 }
 div {
   background-image: url("https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg"");
