@@ -1,5 +1,10 @@
 h1{
 color: red;
+text-align: center;
+}
+p{
+text-align: center;
+color: red;
 }
 body {
 background-image: url (http://www.dominio.es/imagenes/imagen.gif);
