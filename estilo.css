@@ -9,7 +9,6 @@ body {
 	background-image: url(https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg);
 }
 img{
-	
 	margin:10px auto;
 	display:block;
 }
@@ -21,6 +20,7 @@ iframe{
 
 a{	
 	font-size: 16px;
-	text-align: center;
+	text-align: center!important;
 	color: red;
-}
+	display:block;
+	}
