@@ -18,7 +18,8 @@ img{
 }
 iframe{
 	
-	margin: 10 auto;
+	margin-left : auto;
+	margin-right : auto;
 	display: block;
 }
 
@@ -27,6 +28,11 @@ a{
 	text-align: center;
 	margin-left: auto;
   	margin-right: auto;
-	color: red;
-	display:block;
+	color: blue;
+	display: block;
+}
+form{
+	margin-left : auto;
+	margin-right : auto;
+	padding : 0px;
 }
