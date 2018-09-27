@@ -18,3 +18,9 @@ iframe{
 	margin: 10 auto;
 	display: block;
 }
+
+a{	
+	font-size: 16px;
+	text-align: center;
+	color: red;
+}
