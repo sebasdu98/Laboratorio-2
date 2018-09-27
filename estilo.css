@@ -2,5 +2,9 @@ h1{
 color: red;
 }
 body{
-background-image: url("https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg") no-repeat;
+background-image: url("") no-repeat;
+}
+div {
+  background-image: url("https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg"");
+  background-repeat: no-repeat;
 }
