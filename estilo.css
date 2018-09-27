@@ -8,7 +8,10 @@ p{
 body {
 background-image: url(https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg);
 }
-div {
-  background-image: url(https://www.fondosanimales.com/Imagenes/fondo-artistico-de-un-gato.jpg);
-  background-repeat: no-repeat;
+img{
+display:block;
+margin:auto;
+}
+iframe{
+text-align: center;
 }
